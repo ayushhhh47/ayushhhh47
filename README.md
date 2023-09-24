@@ -1,10 +1,20 @@
 - 👋 Hi, I’m @ayushhhh47
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+📚 I'm a B.Tech student specializing in Artificial Intelligence and Machine Learning, on a journey to unlock the potential of AI.
 
-<!---
-ayushhhh47/ayushhhh47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Learning:
+   - C
+   - Java
+   - Python
+   - HTML
+   - CSS
+   - JavaScript
+
+🌐 Passionate about web development and excited to create web applications that make an impact.
+
+🤖 Exploring the realms of AI and ML to solve real-world problems.
+
+🔍 Always eager to expand my knowledge and collaborate on projects that challenge and inspire me.
+
+📫 Feel free to connect with me at [Your Email Address]
+
+Let's learn, code, and innovate together! 🚀
